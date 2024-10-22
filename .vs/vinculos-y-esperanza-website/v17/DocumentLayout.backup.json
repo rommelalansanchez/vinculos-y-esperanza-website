@@ -38,8 +38,7 @@
               "RelativeToolTip": "api\\host.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T01:01:56.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T01:01:56.801Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "api\\local.settings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T01:01:52.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T01:01:52.786Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "api\\ContactoTrigger.cs",
               "ToolTip": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\ContactoTrigger.cs",
               "RelativeToolTip": "api\\ContactoTrigger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T00:36:30.492Z",
               "EditorCaption": ""

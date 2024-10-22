@@ -10,10 +10,15 @@ using Newtonsoft.Json;
 
 namespace VinculosyEsperanza.Functions
 {
-    public static class ContactoTrigger
+    public class ContactoTrigger
     {
+        public ContactoTrigger()
+        {
+            
+        }
+
         [FunctionName("ContactoTrigger")]
-        public static async Task<IActionResult> Run(
+        public async Task<IActionResult> Run(
             [HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)] HttpRequest req,
             ILogger log)
         {
