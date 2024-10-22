@@ -17,7 +17,7 @@ const get = () => {
     body: JSON.stringify(jsonData),
   };
 
-  fetch("api/ContactoTrigger", options)
+  fetch("api/ContactoTrigger?name=Alan", options)
     .then((response) => {
       if (!response.ok) {
         throw new Error("Ocurrió un error al reservar.");
