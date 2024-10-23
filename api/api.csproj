@@ -7,6 +7,11 @@
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="4.5.0" />
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="RammarTech.Tools">
+      <HintPath>Tools\RammarTech.Tools.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
     <None Update="host.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -14,5 +19,11 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <CopyToPublishDirectory>Never</CopyToPublishDirectory>
     </None>
+    <None Update="RespuestaContacto.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Tools\RammarTech\" />
   </ItemGroup>
 </Project>

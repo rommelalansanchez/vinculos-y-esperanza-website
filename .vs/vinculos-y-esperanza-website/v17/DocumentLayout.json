@@ -7,12 +7,28 @@
       "RelativeMoniker": "D:0:0:{26E29317-439F-4002-BDAC-D67B1D5B252E}|api\\api.csproj|solutionrelative:api\\contactotrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{26E29317-439F-4002-BDAC-D67B1D5B252E}|api\\api.csproj|c:\\proyectos\\vinculos y esperanza\\vinculos-y-esperanza-website\\api\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26E29317-439F-4002-BDAC-D67B1D5B252E}|api\\api.csproj|solutionrelative:api\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E29317-439F-4002-BDAC-D67B1D5B252E}|api\\api.csproj|c:\\proyectos\\vinculos y esperanza\\vinculos-y-esperanza-website\\api\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E29317-439F-4002-BDAC-D67B1D5B252E}|api\\api.csproj|solutionrelative:api\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E29317-439F-4002-BDAC-D67B1D5B252E}|api\\api.csproj|c:\\proyectos\\vinculos y esperanza\\vinculos-y-esperanza-website\\api\\tools\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E29317-439F-4002-BDAC-D67B1D5B252E}|api\\api.csproj|solutionrelative:api\\tools\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E29317-439F-4002-BDAC-D67B1D5B252E}|api\\api.csproj|c:\\proyectos\\vinculos y esperanza\\vinculos-y-esperanza-website\\api\\respuestacontacto.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E29317-439F-4002-BDAC-D67B1D5B252E}|api\\api.csproj|solutionrelative:api\\respuestacontacto.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26E29317-439F-4002-BDAC-D67B1D5B252E}|api\\api.csproj|c:\\proyectos\\vinculos y esperanza\\vinculos-y-esperanza-website\\api\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{26E29317-439F-4002-BDAC-D67B1D5B252E}|api\\api.csproj|solutionrelative:api\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26E29317-439F-4002-BDAC-D67B1D5B252E}|api\\api.csproj|c:\\proyectos\\vinculos y esperanza\\vinculos-y-esperanza-website\\api\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{26E29317-439F-4002-BDAC-D67B1D5B252E}|api\\api.csproj|solutionrelative:api\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{26E29317-439F-4002-BDAC-D67B1D5B252E}|api\\api.csproj|c:\\proyectos\\vinculos y esperanza\\vinculos-y-esperanza-website\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{26E29317-439F-4002-BDAC-D67B1D5B252E}|api\\api.csproj|solutionrelative:api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,27 +46,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "host.json",
-              "DocumentMoniker": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\host.json",
-              "RelativeDocumentMoniker": "api\\host.json",
-              "ToolTip": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\host.json",
-              "RelativeToolTip": "api\\host.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T01:01:56.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "local.settings.json",
-              "DocumentMoniker": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\local.settings.json",
-              "RelativeDocumentMoniker": "api\\local.settings.json",
-              "ToolTip": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\local.settings.json",
-              "RelativeToolTip": "api\\local.settings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T01:01:52.786Z"
+              "DocumentIndex": 3,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\Tools\\Common.cs",
+              "RelativeDocumentMoniker": "api\\Tools\\Common.cs",
+              "ToolTip": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\Tools\\Common.cs",
+              "RelativeToolTip": "api\\Tools\\Common.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:35:08.308Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,9 +65,73 @@
               "RelativeDocumentMoniker": "api\\ContactoTrigger.cs",
               "ToolTip": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\ContactoTrigger.cs",
               "RelativeToolTip": "api\\ContactoTrigger.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T00:36:30.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\local.settings.json",
+              "RelativeDocumentMoniker": "api\\local.settings.json",
+              "ToolTip": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\local.settings.json",
+              "RelativeToolTip": "api\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T01:01:52.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RespuestaContacto.html",
+              "DocumentMoniker": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\RespuestaContacto.html",
+              "RelativeDocumentMoniker": "api\\RespuestaContacto.html",
+              "ToolTip": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\RespuestaContacto.html",
+              "RelativeToolTip": "api\\RespuestaContacto.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-23T21:31:04.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "api",
+              "DocumentMoniker": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\api.csproj",
+              "RelativeDocumentMoniker": "api\\api.csproj",
+              "ToolTip": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\api.csproj",
+              "RelativeToolTip": "api\\api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T20:19:42.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "api\\Models\\Contacto.cs",
+              "ToolTip": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\Models\\Contacto.cs",
+              "RelativeToolTip": "api\\Models\\Contacto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:52:54.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\host.json",
+              "RelativeDocumentMoniker": "api\\host.json",
+              "ToolTip": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\host.json",
+              "RelativeToolTip": "api\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T01:01:56.801Z",
               "EditorCaption": ""
             }
           ]

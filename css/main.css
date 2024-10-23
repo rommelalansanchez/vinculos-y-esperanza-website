@@ -488,11 +488,11 @@ h6 {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 35px;
-  height: 35px;
+  width: 45px;
+  height: 45px;
   border-radius: 50%;
   border: 1px solid color-mix(in srgb, var(--default-color), transparent 50%);
-  font-size: 16px;
+  font-size: 30px;
   color: color-mix(in srgb, var(--default-color), transparent 50%);
   margin: 0 5px;
   transition: 0.3s;
@@ -708,7 +708,6 @@ section,
   inset: 0;
   display: block;
   width: 95%;
-  /* max-height: auto; */
   object-fit: cover;
   z-index: 1;
 }
