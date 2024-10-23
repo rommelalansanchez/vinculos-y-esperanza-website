@@ -1,0 +1,85 @@
+$primary: #a08820;
+$light: #fbf9f5;
+//$dark: #000;
+
+$text-light: $light;
+
+body {
+  color: $text-light;
+}
+.btn {
+  height: 48px;
+  color: $text-light;
+}
+
+.btn:hover {
+  color: $text-light;
+}
+
+.nav-link {
+  color: $primary;
+}
+.nav-link:hover {
+  color: #e9d480;
+}
+
+.header {
+  height: 750px;
+  background: linear-gradient(
+      to bottom right,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("../images/HOMEPAGE.png") center center no-repeat;
+  background-size: cover;
+}
+.navbar {
+  transition: all 0.8s ease-in-out;
+}
+.navbar-transparent {
+  opacity: 0.9;
+  box-shadow: 0 0 10px rgba($color: #000000, $alpha: 0.5);
+}
+.navbar-link-secondary {
+  color: $light;
+}
+.navbar-toggler-primary {
+  border-color: $primary;
+}
+
+.carousel-item img {
+  height: 640px;
+}
+
+#logo1 {
+  transition: all 0.5s ease-in-out;
+}
+
+button.carousel-control-prev span,
+button.carousel-control-next span {
+  opacity: 1;
+  background-color: $primary;
+  border-radius: 20px;
+  padding: 1.1rem;
+}
+
+#Reservacion label {
+  color: rgb(33, 37, 41);
+  font-weight: bold;
+}
+
+@media (max-width: 992px) {
+  .navbar {
+    background: var(--bs-dark);
+  }
+  button.carousel-control-prev span,
+  button.carousel-control-next span {
+    opacity: 0.8;
+    background-color: $primary;
+    border-radius: 20px;
+    padding: 1.5rem;
+  }
+}
+
+@media (min-width: 991px) {
+}
