@@ -54,8 +54,7 @@
               "RelativeToolTip": "api\\Tools\\Common.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T21:35:08.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T21:35:08.308Z"
             },
             {
               "$type": "Document",
@@ -65,7 +64,7 @@
               "RelativeDocumentMoniker": "api\\ContactoTrigger.cs",
               "ToolTip": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\ContactoTrigger.cs",
               "RelativeToolTip": "api\\ContactoTrigger.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA4AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwC0AAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T00:36:30.492Z",
               "EditorCaption": ""
@@ -80,8 +79,7 @@
               "RelativeToolTip": "api\\local.settings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T01:01:52.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T01:01:52.786Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "api\\RespuestaContacto.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-23T21:31:04.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T21:31:04.721Z"
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "ToolTip": "C:\\Proyectos\\Vinculos y Esperanza\\vinculos-y-esperanza-website\\api\\api.csproj",
               "RelativeToolTip": "api\\api.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-23T20:19:42.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T20:19:42.333Z"
             },
             {
               "$type": "Document",
@@ -118,8 +114,7 @@
               "RelativeToolTip": "api\\Models\\Contacto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T19:52:54.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T19:52:54.733Z"
             },
             {
               "$type": "Document",
@@ -131,8 +126,7 @@
               "RelativeToolTip": "api\\host.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T01:01:56.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T01:01:56.801Z"
             }
           ]
         }

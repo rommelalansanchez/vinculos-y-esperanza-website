@@ -41,10 +41,7 @@
           document.querySelector(".sent-message").classList.add("d-block");
         } else {
           throw new Error(
-            data
-              ? data
-              : "Form submission failed and no error message returned from: " +
-                action
+            data.Message ? data.Message : "Form submission failed."
           );
         }
       })

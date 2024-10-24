@@ -41,9 +41,9 @@ namespace VinculosyEsperanza.Functions
 
                 return new OkObjectResult(new { Message = "Mensaje enviado", Success = true });
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                return new OkObjectResult(new { Message = "Ha ocurrido un error", Success = false });
+                return new OkObjectResult(new { Message = "Ha ocurrido un error: " + ex.Message, Success = false });
             }
             
         }
