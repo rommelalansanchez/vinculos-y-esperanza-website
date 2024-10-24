@@ -640,7 +640,7 @@ section,
   padding-right: 0;
   scroll-margin-top: 100px;
   overflow: clip;
-  min-height: 600px;
+  min-height: 680px;
 }
 
 @media (max-width: 1199px) {
