@@ -39,7 +39,6 @@
         document.querySelector(".loading").classList.remove("d-block");
         if (data.success) {
           document.querySelector(".sent-message").classList.add("d-block");
-          document.reset();
         } else {
           throw new Error(
             data

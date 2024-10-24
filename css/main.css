@@ -640,6 +640,7 @@ section,
   padding-right: 0;
   scroll-margin-top: 100px;
   overflow: clip;
+  min-height: 600px;
 }
 
 @media (max-width: 1199px) {
@@ -654,7 +655,7 @@ section,
 --------------------------------------------------------------*/
 .section-title {
   text-align: center;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   position: relative;
 }
 
@@ -1428,4 +1429,8 @@ section,
 
 .hero-img {
   width: 400px;
+}
+
+.foto-acerca-de-mi {
+  height: 300px;
 }
